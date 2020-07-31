@@ -8,7 +8,7 @@ env:
   ROM_URL: https://netix.dl.sourceforge.net/project/conqueros/ten/stable/platina/ConquerOS_X-3.4-platina-20200724-0502-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_AB: true
-  BUILD_AONLY: false
+  BUILD_AONLY: true
   ROM_AONLY: ConquerOS_A.7z
   ROM_AB: ConquerOS_AB.7z
 
