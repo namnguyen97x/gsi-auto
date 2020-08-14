@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/vsmart_v620a_v620aopen/f43a5601e88c83632682717a5a45c933f959feb3.zip
-  ROM_NAME: Generic
+  ROM_URL: https://svwh.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.8.13/xiaomi.eu_multi_HMNote7Pro_20.8.13_v12-10.zip
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: Vos_A.7z
-  ROM_AB: VosAB_2207.7z
+  ROM_AB: MIUI_EU.7z
 
 jobs:
   build:
