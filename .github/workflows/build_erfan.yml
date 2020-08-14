@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.O.20_GLO_020_2007160043/OnePlus8Oxygen_15.O.20_OTA_020_all_2007160043_a37510de1b26.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.19_GLO_019_2007160040/OnePlus8Oxygen_15.I.19_OTA_019_all_2007160040_4de63c5edfd9.zip
   ROM_NAME: OxygenOS
   BUILD_AB: true
   BUILD_AONLY: false
